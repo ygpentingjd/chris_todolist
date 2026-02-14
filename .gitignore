@@ -1,0 +1,6 @@
+bin/
+obj/
+.vscode/
+app,db
+*.db-shm
+*.db-wal

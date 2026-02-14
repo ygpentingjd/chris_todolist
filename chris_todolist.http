@@ -1,0 +1,6 @@
+@chris_todolist_HostAddress = http://localhost:5219
+
+GET {{chris_todolist_HostAddress}}
+Accept: application/json
+
+###
