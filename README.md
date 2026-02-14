@@ -14,7 +14,7 @@ Pastikan sudah menginstall:
 - .Net SDK 8
 - Git.
 
-## 2. CLone Repository 
+## 2. Clone Repository 
 
 ## 3. Install Dependencies
 Pastikan semua library sudah terinstall dan sesuai dengan versi .NET yang digunakan.
